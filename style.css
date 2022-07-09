@@ -1,0 +1,121 @@
+body {
+    background-image: url("Waterfall_Mountains_Iceland_2021_Scenery_HD_Photo_2560x1920.jpg"), url("Waterfall_Mountains_Iceland_2021_Scenery_HD_Photo_2560x1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px, 1400px;
+}
+
+
+
+
+.kep1 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.kep2 {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.kep3 {
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.kep4 {
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 32px;
+}
+
+tr,
+td {
+    padding: 15px;
+    width: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p6 {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    margin-bottom: 30px;
+    padding-left: 50px;
+    padding-bottom: 35px;
+    color: orange;
+
+}
+
+th {
+    padding-right: 200px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+p1 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+p3 {
+    color: white;
+}
+
+h {
+    color: white;
+}
+
+h6 {
+    color: orange;
+}
+
+u {
+    color: white;
+}
+
+h6 {
+    margin-bottom: 25px;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link,
+a:hover,
+a:after,
+a:visited {
+    color: orange
+}
+
+.div{
+    width: 300px;
+    height: 100px;
+}
+
